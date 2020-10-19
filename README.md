@@ -1,2 +1,3 @@
 # GPO
-Proyect
+
+This proyect is about Flowshop with permutacions
