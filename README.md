@@ -1,3 +1,3 @@
 # Gestión y Planificación de Operaciones
 
-This proyect is about Flowshop with permutayions
+Este proyecto se trata de Flowshop con permutación
